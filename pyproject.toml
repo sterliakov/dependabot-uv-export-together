@@ -6,7 +6,7 @@ version = "0.1.0"
 # Runtime dependencies are not managed here yet.
 dependencies = [
     "uvicorn==0.35",
-    "fastapi==0.116.1",
+    "fastapi==0.136.3",
     "numpy==1.26.4",
     "python-multipart==0.0.26",
 ]
