@@ -16,5 +16,5 @@ test = [
     "pytest ~= 9.0.2",
 ]
 typecheck = [
-    "mypy == 1.19.1",
+    "mypy==2.1.0",
 ]
